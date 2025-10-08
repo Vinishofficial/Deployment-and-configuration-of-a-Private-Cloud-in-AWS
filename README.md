@@ -1,7 +1,7 @@
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-##### Name: VINISH RAJ R
-##### Reg no: 212223230243
+#### Name: VINISH RAJ R
+#### Reg no: 212223230243
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
